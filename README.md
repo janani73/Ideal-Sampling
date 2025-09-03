@@ -5,7 +5,8 @@ Write a simple Python program for the construction and reconstruction of ideal, 
  personal computer with SCI lab software
 # Program
 ```
-1)a)IDEAL SAMPLING:
+#1)a)IDEAL SAMPLING:
+
  import numpy as np
  import matplotlib.pyplot as plt
  from scipy.signal import resample
@@ -44,7 +45,8 @@ Write a simple Python program for the construction and reconstruction of ideal, 
  plt.show()
 
 
-1)b)NATURAL SAMPLING:
+#1)b)NATURAL SAMPLING:
+
  import numpy as np
  import matplotlib.pyplot as plt
  from scipy.signal import butter, lfilter
@@ -91,7 +93,8 @@ Write a simple Python program for the construction and reconstruction of ideal, 
  plt.tight_layout()
  plt.show()
 
-1)c)FLAT-TOP SAMPLING:
+#1)c)FLAT-TOP SAMPLING:
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
