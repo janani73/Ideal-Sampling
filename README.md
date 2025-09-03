@@ -2,7 +2,7 @@
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
- personal computer with SCI lab software
+ personal computer with COLAB
 # Program
 ```
  1)a)IDEAL SAMPLING:
