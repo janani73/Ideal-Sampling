@@ -5,7 +5,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
  personal computer with SCI lab software
 # Program
 ```
-## 1)a)IDEAL SAMPLING:
+ 1)a)IDEAL SAMPLING:
 
  import numpy as np
  import matplotlib.pyplot as plt
@@ -45,7 +45,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
  plt.show()
 
 
-#1)b)NATURAL SAMPLING:#
+b)NATURAL SAMPLING:
 
  import numpy as np
  import matplotlib.pyplot as plt
@@ -93,7 +93,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
  plt.tight_layout()
  plt.show()
 
-#1)c)FLAT-TOP SAMPLING:#
+c)FLAT-TOP SAMPLING:
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -165,7 +165,24 @@ plt.show()
 ```
 # Output Waveform
 ```
-Attach the output waveform
+IDEAL SAMPLING:
+
+
+<img width="866" height="393" alt="image1" src="https://github.com/user-attachments/assets/c182ca59-c9d5-4970-b628-bd46f4f2f4e1" />
+
+NATURAL SAMPLING:
+
+
+<img width="1390" height="989" alt="image 2" src="https://github.com/user-attachments/assets/54263e74-2c9d-4bb8-837f-29d63840fbd1" />
+
+
+FALT-TOP SAMPLING:
+
+
+<img width="1398" height="990" alt="image 3" src="https://github.com/user-attachments/assets/9f785cf5-8710-4b32-b5c9-c5f4f3e3c3a6" />
+
+
+
 ```
 # Results
 ```
