@@ -5,7 +5,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
  personal computer with SCI lab software
 # Program
 ```
-# 1)a)IDEAL SAMPLING:
+## 1)a)IDEAL SAMPLING:
 
  import numpy as np
  import matplotlib.pyplot as plt
