@@ -184,8 +184,4 @@ FALT-TOP SAMPLING:
 
 
 ```
-# Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+
