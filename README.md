@@ -164,7 +164,7 @@ plt.show()
 
 ```
 # Output Waveform
-```
+
 IDEAL SAMPLING:
 
 
@@ -183,5 +183,5 @@ FALT-TOP SAMPLING:
 
 
 
-```
+
 
